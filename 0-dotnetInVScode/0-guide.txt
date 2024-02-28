@@ -3,3 +3,10 @@ for building a dotnet app in vscode:
 1. we should build a solution first
 
 2. then build our app
+
+sample: console app=>
+ - command 1 : dotnet new sln --name "the name of the solution"
+ - command 2 : dotnet new console --output "the name of app"
+ - command 3 : dotnet sln add "the name of app"
+
+ 
