@@ -50,3 +50,9 @@ dotnet new blazorwasm -o C:\projects\myproject\MyProject
 ```
 
 This will create a new Blazor WebAssembly app named 'MyProject' in the specified directory.
+
+------------------------------------------------------
+
+note: see this =>
+dotnet new console -o AboutMyEnvironment --use-program-main
+=> this bitch "--use-program-main" will disable top-level-statement
