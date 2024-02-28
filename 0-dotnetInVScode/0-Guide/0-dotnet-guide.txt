@@ -154,6 +154,9 @@ the new command at the command prompt.
 
 sample : dotnet build -h
 --------------------------------------------------------------------------
-
+To open the official documentation in a web browser window for the dotnet build command, 
+enter the following at the command prompt or in the Visual Studio Code terminal, and note 
+the page opened in your web browser:
+dotnet help build
 
 --------------------------------------------------------------------------
