@@ -42,6 +42,16 @@ The following are some common templates that you can use to generate different t
 8. **Razor Class Library (razor)**: Produces a Razor class library.
 9. **Static Website (static)**: Generates a static website.
 10. **Workflow Console App (workflow)**: Creates a workflow console application.
+||| dotnet new 
+console 
+classlib 
+xunit
+web
+razorclasslib
+mvc
+webapi
+webapiaot =>ASP.NET Core Web API  (native AOT)
+blazor
 
 You can specify the output directory when creating these applications using the `--output` flag followed by the desired folder path. For example, if you want to create a Blazor WebAssembly app named 'MyProject' in the 'C:\projects\myproject\' directory, you would use the following command:
 
@@ -138,15 +148,6 @@ Run 'dotnet [command] --help' for more information on a command.
 
 --------------------------------------------------------------------------
 
-||| dotnet new 
-console 
-classlib 
-xunit
-web
-razorclasslib
-mvc
-webapi
-webapiaot
-blazor
+
 
 --------------------------------------------------------------------------
