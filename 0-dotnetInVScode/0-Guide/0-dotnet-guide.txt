@@ -147,7 +147,12 @@ Additional commands from bundled tools:
 Run 'dotnet [command] --help' for more information on a command.
 
 --------------------------------------------------------------------------
+Another type of help is command-line documentation. It follows this syntax:
+dotnet <command> -?|-h|--help
+For example, dotnet new -? or dotnet new -h or dotnet new --help outputs documentation about 
+the new command at the command prompt.
 
+--------------------------------------------------------------------------
 
 
 --------------------------------------------------------------------------
