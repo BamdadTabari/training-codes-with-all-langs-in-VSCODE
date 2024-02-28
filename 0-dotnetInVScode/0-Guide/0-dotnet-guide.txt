@@ -9,4 +9,44 @@ sample: console app=>
  - command 2 : dotnet new console --output "the name of app"
  - command 3 : dotnet sln add "the name of app"
 
- 
+ ----------------------------------------------------------
+
+ To build different types of .NET projects in Visual Studio Code, 
+ you can use various commands provided by the .NET CLI and C# Dev Kit extension. 
+ Here is a list of essential commands for building .NET projects:
+
+1. **dotnet build**: This command builds a project or solution.
+2. **dotnet clean**: Cleans all solution outputs.
+3. **dotnet run**: Runs the application from source.
+4. **dotnet restore**: Restores the dependencies for an application.
+5. **dotnet publish**: Publishes a .NET framework-dependent or self-contained application.
+
+These commands are essential for managing and building your .NET projects efficiently 
+in Visual Studio Code.
+
+----------------------------------------------------------------------
+
+
+Ok, to create different types of .NET applications using Visual Studio Code,
+you can use the `dotnet new` command with specific templates. 
+The following are some common templates that you can use to generate different types of 
+.NET applications:
+
+1. **Console Application (console)**: Creates a basic console application.
+2. **Web API (webapi)**: Generates a web API project.
+3. **Blazor WebAssembly App (blazorwasm)**: Produces a Blazor WebAssembly app.
+4. **MVC WebApp (mvc)**: Creates a MVC web application.
+5. **Class Library (classlib)**: Builds a class library.
+6. **Unit Test Project (xunit)**: Generates a unit test project.
+7. **ASP.NET Core Empty (empty)**: Creates an empty ASP.NET Core project.
+8. **Razor Class Library (razor)**: Produces a Razor class library.
+9. **Static Website (static)**: Generates a static website.
+10. **Workflow Console App (workflow)**: Creates a workflow console application.
+
+You can specify the output directory when creating these applications using the `--output` flag followed by the desired folder path. For example, if you want to create a Blazor WebAssembly app named 'MyProject' in the 'C:\projects\myproject\' directory, you would use the following command:
+
+```bash
+dotnet new blazorwasm -o C:\projects\myproject\MyProject
+```
+
+This will create a new Blazor WebAssembly app named 'MyProject' in the specified directory.
