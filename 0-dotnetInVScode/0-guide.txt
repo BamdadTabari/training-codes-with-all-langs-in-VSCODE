@@ -1,0 +1,5 @@
+for building a dotnet app in vscode:
+
+1. we should build a solution first
+
+2. then build our app
