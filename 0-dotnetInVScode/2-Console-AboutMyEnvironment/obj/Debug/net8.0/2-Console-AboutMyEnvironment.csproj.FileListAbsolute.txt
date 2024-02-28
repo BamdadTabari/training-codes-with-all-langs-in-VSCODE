@@ -1,0 +1,15 @@
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\bin\Debug\net8.0\2-Console-AboutMyEnvironment.exe
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\bin\Debug\net8.0\2-Console-AboutMyEnvironment.deps.json
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\bin\Debug\net8.0\2-Console-AboutMyEnvironment.runtimeconfig.json
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\bin\Debug\net8.0\2-Console-AboutMyEnvironment.dll
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\bin\Debug\net8.0\2-Console-AboutMyEnvironment.pdb
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\obj\Debug\net8.0\2-Console-AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\obj\Debug\net8.0\2-Console-AboutMyEnvironment.AssemblyInfoInputs.cache
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\obj\Debug\net8.0\2-Console-AboutMyEnvironment.AssemblyInfo.cs
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\obj\Debug\net8.0\2-Console-AboutMyEnvironment.csproj.CoreCompileInputs.cache
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\obj\Debug\net8.0\2-Console-AboutMyEnvironment.sourcelink.json
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\obj\Debug\net8.0\2-Console-AboutMyEnvironment.dll
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\obj\Debug\net8.0\refint\2-Console-AboutMyEnvironment.dll
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\obj\Debug\net8.0\2-Console-AboutMyEnvironment.pdb
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\obj\Debug\net8.0\2-Console-AboutMyEnvironment.genruntimeconfig.cache
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\2-Console-AboutMyEnvironment\obj\Debug\net8.0\ref\2-Console-AboutMyEnvironment.dll
