@@ -1,0 +1,7 @@
+
+Good Practice:
+Comments should not be the only way that you document your code. 
+Choosing sensible names for variables and functions, writing unit tests, and creating actual 
+documents are other ways to document your code
+
+------------------------------------------------------------------
