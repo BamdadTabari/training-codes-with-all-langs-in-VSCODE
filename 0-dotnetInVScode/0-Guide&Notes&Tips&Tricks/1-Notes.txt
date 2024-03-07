@@ -15,5 +15,32 @@ select the display items that you would like to customize. You can also search f
 instead of browsing for it.
 
 ------------------------------------------------------------------
+WHICH SDK? WHICH NAME SPACE? (C#)
 
+- Microsoft.NET.Sdk:
+    System
+    System.Collections.Generic
+    System.IO
+    System.Linq
+    System.Net.Http
+    System.Threading
+    System.Threading.Tasks
 
+- Microsoft.NET.Sdk.Web:
+    Same as Microsoft.NET.Sdk and:
+    System.Net.Http.Json
+    Microsoft.AspNetCore.Builder
+    Microsoft.AspNetCore.Hosting
+    Microsoft.AspNetCore.Http
+    Microsoft.AspNetCore.Routing
+    Microsoft.Extensions.Configuration
+    Microsoft.Extensions.DependencyInjection
+    Microsoft.Extensions.Hosting
+    Microsoft.Extensions.Logging
+
+- Microsoft.NET.Sdk.Worker:
+    Same as Microsoft.NET.Sdk and:
+    Microsoft.Extensions.Configuration
+    Microsoft.Extensions.DependencyInjection
+    Microsoft.Extensions.Hosting
+    Microsoft.Extensions.Logging
