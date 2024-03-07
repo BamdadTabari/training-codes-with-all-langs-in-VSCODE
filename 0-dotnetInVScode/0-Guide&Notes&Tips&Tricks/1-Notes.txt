@@ -56,3 +56,20 @@ CLICK ON YOUR .SCPROJ FILE, THEN LIKE THIS=>
     <Using Include="System.Console" Static="true" />
     <Using Include="System.Environment" Alias="Env" />
 </ItemGroup>
+------------------------------------------------------------------
+You can disable the implicitly imported namespaces feature for all SDKs by removing the 
+<ImplicitUsings> element completely from the project file, or changing its value to disable, as 
+shown in the following markup:
+<ImplicitUsings>disable</ImplicitUsings>
+------------------------------------------------------------------
+Good Practice: You might choose to do this if you want to manually create a single file 
+with all the global using statements instead of potentially having one generated automatically and others created manually. 
+But my recommendation is to leave the feature 
+enabled and modify the project file to change what is included in the auto-generated class 
+file in the obj folder hierarchy.
+------------------------------------------------------------------
+------------------------------------------------------------------
+------------------------------------------------------------------
+------------------------------------------------------------------
+------------------------------------------------------------------
+------------------------------------------------------------------
