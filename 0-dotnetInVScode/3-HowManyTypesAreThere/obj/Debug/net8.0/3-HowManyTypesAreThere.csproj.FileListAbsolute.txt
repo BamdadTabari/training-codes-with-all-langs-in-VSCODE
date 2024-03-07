@@ -1,0 +1,15 @@
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\bin\Debug\net8.0\3-HowManyTypesAreThere.exe
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\bin\Debug\net8.0\3-HowManyTypesAreThere.deps.json
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\bin\Debug\net8.0\3-HowManyTypesAreThere.runtimeconfig.json
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\bin\Debug\net8.0\3-HowManyTypesAreThere.dll
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\bin\Debug\net8.0\3-HowManyTypesAreThere.pdb
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\obj\Debug\net8.0\3-HowManyTypesAreThere.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\obj\Debug\net8.0\3-HowManyTypesAreThere.AssemblyInfoInputs.cache
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\obj\Debug\net8.0\3-HowManyTypesAreThere.AssemblyInfo.cs
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\obj\Debug\net8.0\3-HowManyTypesAreThere.csproj.CoreCompileInputs.cache
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\obj\Debug\net8.0\3-HowManyTypesAreThere.sourcelink.json
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\obj\Debug\net8.0\3-HowManyTypesAreThere.dll
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\obj\Debug\net8.0\refint\3-HowManyTypesAreThere.dll
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\obj\Debug\net8.0\3-HowManyTypesAreThere.pdb
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\obj\Debug\net8.0\3-HowManyTypesAreThere.genruntimeconfig.cache
+D:\1-work-space\1-codes\9-training-codes\0-dotnetInVScode\3-HowManyTypesAreThere\obj\Debug\net8.0\ref\3-HowManyTypesAreThere.dll
