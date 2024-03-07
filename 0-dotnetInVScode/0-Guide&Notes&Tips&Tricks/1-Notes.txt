@@ -5,3 +5,5 @@ Choosing sensible names for variables and functions, writing unit tests, and cre
 documents are other ways to document your code
 
 ------------------------------------------------------------------
+
+themes change in vscode: ctrl+K ctrl+t 
